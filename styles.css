@@ -3,17 +3,6 @@
 
 
 
-
-
-
-
-
-@media screen and ( min-width:767px ) {
-    /*...*/
-}
-
-    
-
  
 * {
   margin: 0;
@@ -59,4 +48,8 @@ header {
     --shadow-hover: 0 20px 60px rgba(255, 0, 60, 0.2);}
 
 hr { opacity: 25%;}
+
+
+
+
 
